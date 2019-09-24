@@ -1,5 +1,5 @@
 # Kaggle_projects
-Code repos for kaggle competitions
+Code repos for kaggle competitions i have participated
 
 Problem Statement – 
 This NIH Chest X-ray Dataset is comprised of 112,120 X-ray images with disease labels from 30,805 unique patients. 
